@@ -2,7 +2,7 @@
 
 # Todo-list
 
-> Description the project.
+> Description of the project.
 > A todo list using webpack
 
 ## Built With
